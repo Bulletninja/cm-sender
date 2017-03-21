@@ -1,0 +1,4 @@
+#ignore yaml config files and jupyter/ipython notebooks
+*.yaml
+*.yml
+*.ipynb
